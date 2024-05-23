@@ -4,8 +4,9 @@
 #### 1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?  
 
 * 코드의 완성  
-* 하나씩이나 배웠습니다. num 이 'inf', '-inf'가 될 수도 있는 등 num이 max_value 또는 min_value 와 같을 경우에도 max_value = num의 의미가 유지되도록 비교문을 설계한 것이 눈에 띄었습니다. 참고하겠습니다.  
-          # 만약 num 값이 min_value보다 작다면 min_value를 num 값으로 변경
+* 하나씩이나 배웠습니다. num 이 'inf', '-inf'가 될 수도 있는 등 num이 max_value 또는 min_value 와 같을 경우에도 max_value = num의 의미가 유지되도록 비교문을 설계한 것이 눈에 띄었습니다. 참고하겠습니다.
+  
+      # 만약 num 값이 min_value보다 작다면 min_value를 num 값으로 변경
         if num <= min_value:
           min_value = num
       
