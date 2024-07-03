@@ -1,1 +1,1 @@
-# First Quest in Exploration_quest
+# AI 앱 프로젝트 - 첫번째 서브 퀘스트
