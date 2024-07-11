@@ -34,8 +34,8 @@
 
 
 ## 구현영상 
-https://github.com/freentour/AIFFEL_quest/blob/main/Flutter_quest/Quest04/main.dart%20-%20first_app%20-%20Visual%20Studio%20Code%202024-07-11%2017-06-37.mp4
-
+[https://github.com/freentour/AIFFEL_quest/blob/main/Flutter_quest/Quest04/main.dart%20-%20first_app%20-%20Visual%20Studio%20Code%202024-07-11%2017-06-37.mp4
+](https://drive.google.com/file/d/17bCPHjn6uje3_UgfUAc_ZvPaf6QO-5Zr/view?usp=sharing)
 
 
 ## 참고 학습 자료 
