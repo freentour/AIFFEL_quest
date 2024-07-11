@@ -27,6 +27,8 @@
 
 ![프로토타입](https://github.com/freentour/AIFFEL_quest/blob/main/Flutter_quest/Quest04/figma_prototype.png)
 
+- 프로토타이핑 영상 : https://drive.google.com/file/d/1YfHg99rpOOXBydfxffi5NnNEVoYfX1Ht/view?usp=sharing
+
 
 
 ## 페이지 구현
