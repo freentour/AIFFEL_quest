@@ -36,7 +36,7 @@
 
 
 ## 구현영상 
-- [영상]
+- [영상] https://drive.google.com/file/d/1UkzCnXRpHsNUa9bx_70R1ajyPnvUEckY/view?usp=sharing
 
 
 ## 참고 학습 자료 
