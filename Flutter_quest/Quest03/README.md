@@ -1,4 +1,4 @@
-# 두번째 서브 퀘스트
+# 세번째 서브 퀘스트
 
 # AIFFEL Campus Code Peer Review Templete
 
