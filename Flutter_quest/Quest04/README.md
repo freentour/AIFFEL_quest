@@ -15,16 +15,20 @@
 
 ## 앱 와이어프레임 (사용 툴 : 피그마)
 ![와이어프레임](https://github.com/freentour/AIFFEL_quest/blob/main/Flutter_quest/Quest04/figma_wireframe.png)
+![와이어프레임 내비게이션 영상](https://github.com/freentour/AIFFEL_quest/blob/main/Flutter_quest/Quest04/flutter_quest04_01.gif)
+
 - [영상] 와이어프레임 내비게이션 영상 : https://drive.google.com/file/d/1D08XDcxUewP1FvmDDDcSh0SsSuV-mbIV/view?usp=sharing
 
 ## 프로토타이핑 (사용 툴 : 피그마)
 ![프로토타입](https://github.com/freentour/AIFFEL_quest/blob/main/Flutter_quest/Quest04/figma_prototype.png)
+![프로토타입 내비게이션 영상](https://github.com/freentour/AIFFEL_quest/blob/main/Flutter_quest/Quest04/flutter_quest04_02.gif)
 - [영상] 프로토타이핑 내비게이션 영상 : https://drive.google.com/file/d/1YfHg99rpOOXBydfxffi5NnNEVoYfX1Ht/view?usp=sharing
 
 ## 페이지 구현
 1. main.dart - 메인 화면, 영상 상세 화면, 프로필 화면으로 구성. 네비게이션 2.0을 사용해 이동. 
 
-## 구현영상 
+## 구현영상
+![구현 영상](https://github.com/freentour/AIFFEL_quest/blob/main/Flutter_quest/Quest04/flutter_quest04_03.gif)
 - [영상] https://drive.google.com/file/d/1UkzCnXRpHsNUa9bx_70R1ajyPnvUEckY/view?usp=sharing
 
 
