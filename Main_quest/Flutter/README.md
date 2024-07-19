@@ -26,7 +26,6 @@
 1. main.dart - 앱 구조도에 나열한 모든 화면들을 구성. 네비게이션 2.0을 사용해 화면 전환 처리.
 2. blip_download.py - Salesforce의 BLIP 모델 다운로드용 코드. (허깅페이스의 transformers 패키지 이용)
 3. server_fastapi_blip.py - BLIP 모델과 GPT-4o mini 모델을 둘 다 활용하는 FastAPI 서버 코드
-  - SECRET_KEY: FastAPI 호출에 대한 인증을 위해 클라이언트와 서버 간에 미리 약속된 비밀키를 활용함. (코드에 적혀 있는 SECRET_KEY는 현재 사용중인 키 값이 아님!)
 4. openai_test.py - OPENAI API를 통한 GPT-4o mini 모델 테스트용 코드
 
 ## 구현 영상
@@ -35,7 +34,7 @@
 
 ## 참고 학습 자료
 - BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
-  - 허길페이스 모델 페이지: https://huggingface.co/Salesforce/blip-image-captioning-large
+  - 허깅페이스 모델 페이지: https://huggingface.co/Salesforce/blip-image-captioning-large
 - OPENAI Developer Quckstart 페이지: https://platform.openai.com/docs/quickstart
 - [GeekNews] OpenAI, 가장 비용 효율적인 작은 모델 GPT-4o mini 공개: https://news.hada.io/topic?id=15917
 
