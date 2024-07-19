@@ -30,7 +30,7 @@
 
 ## 구현 영상
 <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Main_quest/Flutter/flutter_mainquest.gif" width="30%" height="30%"><br>
-- [동영상] : https://drive.google.com/file/d/1m5uAtElKy1-XTyG6savD6n8y-BO0uGNP/view?usp=sharing
+- [동영상] : https://drive.google.com/file/d/1Ken_71IUef8b5BcUqdQ4gpUeVb8Vh-RD/view?usp=sharing
 
 ## 참고 학습 자료
 - BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
