@@ -33,7 +33,6 @@
 <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Main_quest/Flutter/flutter_mainquest.gif" width="30%" height="30%"><br>
 - [동영상] : https://drive.google.com/file/d/1Ken_71IUef8b5BcUqdQ4gpUeVb8Vh-RD/view?usp=sharing
 ### 2. 설명도 이야기 생성도 모두 GPT-4o mini 모델을 사용하는 V2 동영상
-<img src="https://file.notion.so/f/f/727f9bb2-d473-40fe-acdd-4830d179b2bc/2079fbeb-fb04-49a4-8815-3fe20e83cc80/Untitled.gif?id=1b8c05b8-af6d-4d83-aed7-df87dc2697e1&table=block&spaceId=727f9bb2-d473-40fe-acdd-4830d179b2bc&expirationTimestamp=1721692800000&signature=E0nZP2gPIAzuV4LB3o946q9MFnNePIXZT2D9ufCCaq4&downloadName=Untitled.gif" width="30%" height="30%"><br>
 - [동영상] : https://drive.google.com/file/d/19UyLr9OalR2EJZA1aOIuvhXX4fjbmFCl/view?usp=sharing
 
 ## 참고 학습 자료
