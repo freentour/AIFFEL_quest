@@ -31,6 +31,7 @@
 ## 구현 영상
 <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Main_quest/Flutter/flutter_mainquest.gif" width="30%" height="30%"><br>
 - [동영상] : https://drive.google.com/file/d/1Ken_71IUef8b5BcUqdQ4gpUeVb8Vh-RD/view?usp=sharing
+- [설명도 GPT-4o mini 모델을 사용하는 V2 동영상] : https://drive.google.com/file/d/19UyLr9OalR2EJZA1aOIuvhXX4fjbmFCl/view?usp=sharing
 
 ## 참고 학습 자료
 - BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
