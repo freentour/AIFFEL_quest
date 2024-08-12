@@ -50,7 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
       Uri.parse('https://api.pexels.com/v1/search?query=flowers&per_page=30'),
       headers: {
         'Authorization':
-            'TMkI6JMaisFz6RVyAn1ynCiaBqGRHFoqZE6rOzzsvH2Fvfkv0RNHg0Up',
+            'Your-Key',
       },
     );
 
