@@ -14,22 +14,22 @@
 ## 결과
 - 김재이 결과
   - Fashion MNIST 데이터셋
-    - **1,000 에포크**까지 진행한 후의 결과
+    - **400 에포크**까지 진행한 후의 결과
       - 최종 생성 샘플
-        <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Exploration_quest/Quest04/dcgan_cifar10_case1_1000epochs_last_samples.png" width="150%" height="150%"> 
+        <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Exploration_quest/Quest04/dcgan_fashionmnist_400epochs_last_samples_by_KJE.png" width="150%" height="150%"> 
       - 최종 히스토리 그래프
-        <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Exploration_quest/Quest04/dcgan_cifar10_case1_1000epochs_history.png"> 
-    - **1,000 에포크**까지 진행한 후의 결과
+        <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Exploration_quest/Quest04/dcgan_fashionmnist_400epochs_history_by_KJE.png"> 
+    - **700 에포크**까지 진행한 후의 결과
       - 최종 생성 샘플
-        <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Exploration_quest/Quest04/dcgan_cifar10_case1_1000epochs_last_samples.png" width="150%" height="150%"> 
+        <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Exploration_quest/Quest04/dcgan_fashionmnist_700epochs_last_samples_by_KJE.png" width="150%" height="150%"> 
       - 최종 히스토리 그래프
-        <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Exploration_quest/Quest04/dcgan_cifar10_case1_1000epochs_history.png"> 
+        <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Exploration_quest/Quest04/dcgan_fashionmnist_700epochs_history_by_KJE.png"> 
   - CIFAR-10 데이터셋
     - **1,000 에포크**까지 진행한 후의 결과
       - 최종 생성 샘플
-        <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Exploration_quest/Quest04/dcgan_cifar10_case1_1000epochs_last_samples.png" width="150%" height="150%"> 
+        <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Exploration_quest/Quest04/dcgan_cifar10_200epochs_last_samples_by_KJE.png" width="150%" height="150%"> 
       - 최종 히스토리 그래프
-        <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Exploration_quest/Quest04/dcgan_cifar10_case1_1000epochs_history.png"> 
+        <img src="https://github.com/freentour/AIFFEL_quest/blob/main/Exploration_quest/Quest04/dcgan_cifar10_200epochs_history_by_KJE.png"> 
 - 김주현 결과
   - [기본 실험]
     - **1,000 에포크**까지 진행한 후의 결과
